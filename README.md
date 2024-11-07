@@ -29,3 +29,6 @@ train_size : This is the training data size. I have used 80/20 split.
 
 6. The model.pkl is the saved pre-trained model. scaler_data.pkl, scaler_pca.pkl are the
 two saved scalers for scaling the features.
+
+Please refer to the file "Classification_task.ipynb" for EDA and plots. The detailed report regarding the task can be 
+found in "Classification of Accelerometer data - Report.pdf"
