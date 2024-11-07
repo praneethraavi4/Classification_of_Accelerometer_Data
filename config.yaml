@@ -1,0 +1,5 @@
+healthy_data : "C:/Users/saipr/Downloads/dftrain.h5"
+Anomaly_data : "C:/Users/saipr/Downloads/dfvalid.h5"
+Anomaly_ground_truth: "C:/Users/saipr/Downloads/dfvalid_groundtruth.csv"
+unseen_data : "C:/Users/saipr/Downloads/dfvalid.h5"
+train_size : 0.8
